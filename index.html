@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Store</title>
+    <meta name="description" content="Catálogo digital com ofertas e destaques do Instagram." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <header class="site-header" id="site-header">
+      <div class="branding">
+        <img id="store-logo" class="branding__logo" alt="Logotipo da loja" />
+        <div class="branding__info">
+          <h1 id="store-title" class="branding__title"></h1>
+          <p id="store-subtitle" class="branding__subtitle"></p>
+        </div>
+      </div>
+      <nav class="social-nav" id="social-nav"></nav>
+    </header>
+
+    <main id="app" class="app">
+      <section id="highlight" class="highlight" aria-live="polite"></section>
+      <section class="products" aria-label="Lista de produtos">
+        <header class="section-heading">
+          <h2>Catálogo</h2>
+          <div class="filters" id="filters"></div>
+        </header>
+        <div id="product-grid" class="product-grid" role="list"></div>
+      </section>
+
+      <section id="instagram-feed" class="instagram" aria-label="Destaques do Instagram">
+        <header class="section-heading">
+          <h2>Instagram</h2>
+        </header>
+        <div class="instagram__grid" id="instagram-grid"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer" id="site-footer"></footer>
+
+    <template id="product-card-template">
+      <article class="product-card" role="listitem">
+        <img class="product-card__image" alt="" loading="lazy" />
+        <div class="product-card__body">
+          <h3 class="product-card__title"></h3>
+          <p class="product-card__description"></p>
+          <div class="product-card__meta">
+            <span class="product-card__price"></span>
+            <a class="product-card__cta" target="_blank" rel="noopener"></a>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <template id="instagram-card-template">
+      <a class="instagram-card" target="_blank" rel="noopener">
+        <img class="instagram-card__image" alt="Publicação do Instagram" loading="lazy" />
+        <div class="instagram-card__overlay">
+          <span class="instagram-card__caption"></span>
+        </div>
+      </a>
+    </template>
+
+    <script type="module" src="./src/scripts/app.js"></script>
+  </body>
+</html>
