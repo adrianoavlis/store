@@ -1,43 +1,62 @@
 [
   {
-    "id": "brisa-top",
-    "name": "Biquíni Brisa - Top Cortininha",
-    "description": "Malha com proteção UV50+, bojo removível e amarração regulável.",
-    "price": 139.9,
-    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=80",
-    "imageAlt": "Modelo usando biquíni listrado colorido",
-    "category": "Biquínis",
-    "url": "https://wa.me/5500000000000?text=Quero%20o%20Biqu%C3%ADni%20Brisa",
-    "ctaLabel": "Pedir agora"
+    "id": "brigadeiro-gourmet",
+    "title": "Brigadeiro Gourmet",
+    "description": "Chocolate belga, finalizado com granulado artesanal e opções sem lactose.",
+    "price": 4.5,
+    "image": "https://images.unsplash.com/photo-1589308078055-4454706e67c6?auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Brigadeiros gourmet alinhados em bandeja",
+    "tags": ["brigadeiros", "tradicionais"],
+    "url": "https://www.instagram.com/p/CP000001/"
   },
   {
-    "id": "oceano-body",
-    "name": "Body Oceano Recorte",
-    "description": "Modelagem cavada com bojo embutido e tecido texturizado em azul profundo.",
-    "price": 189.9,
-    "image": "https://images.unsplash.com/photo-1508740106531-1e05e0b0980e?auto=format&fit=crop&w=800&q=80",
-    "imageAlt": "Body azul de manga longa à beira mar",
-    "category": "Bodies",
-    "url": "https://wa.me/5500000000000?text=Tenho%20interesse%20no%20Body%20Oceano"
+    "id": "bolo-red-velvet",
+    "title": "Bolo Red Velvet",
+    "description": "Massa aveludada com recheio de cream cheese e cobertura espatulada.",
+    "price": 180,
+    "image": "https://images.unsplash.com/photo-1542826438-bd32f43fffde?auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Bolo red velvet decorado com morangos",
+    "tags": ["bolos", "eventos"],
+    "url": "https://www.instagram.com/p/CP000002/"
   },
   {
-    "id": "aurora-saida",
-    "name": "Saída Aurora Longa",
-    "description": "Tecido chiffon translúcido com fenda frontal e amarração ajustável.",
-    "price": 159.9,
-    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
-    "imageAlt": "Saída de praia longa rosa vibrante",
-    "category": "Saídas",
-    "url": "https://wa.me/5500000000000?text=Quero%20a%20Sa%C3%ADda%20Aurora"
+    "id": "torta-limao",
+    "title": "Torta de Limão Siciliano",
+    "description": "Base crocante de biscoito, curd de limão siciliano e merengue maçaricado.",
+    "price": 95,
+    "image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Torta de limão com merengue",
+    "tags": ["tortas", "gelados"],
+    "url": "https://www.instagram.com/p/CP000003/"
   },
   {
-    "id": "coral-chapéu",
-    "name": "Chapéu Coral Palha",
-    "description": "Palha tramada artesanalmente com faixa em linho cru e pedrarias de búzios.",
-    "price": 119.9,
-    "image": "https://images.unsplash.com/photo-1514996937319-344454492b37?auto=format&fit=crop&w=800&q=80",
-    "imageAlt": "Chapéu de palha com laço em fita branca",
-    "category": "Acessórios",
-    "url": "https://wa.me/5500000000000?text=Quero%20o%20Chapeu%20Coral"
+    "id": "bem-casado",
+    "title": "Bem-casado Clássico",
+    "description": "Massa fofinha com doce de leite cozido lentamente e açúcar de confeiteiro.",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Bem-casados embrulhados em tecido",
+    "tags": ["lembrancinhas", "casamentos"],
+    "url": "https://www.instagram.com/p/CP000004/"
+  },
+  {
+    "id": "cookies-recheados",
+    "title": "Cookies Recheados",
+    "description": "Biscoitos macios com recheio de caramelo salgado e chocolate meio amargo.",
+    "price": 8,
+    "image": "https://images.unsplash.com/photo-1483695028939-5bb13f8648b0?auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Cookies recheados com chocolate derretendo",
+    "tags": ["cookies", "lanche"],
+    "url": "https://www.instagram.com/p/CP000005/"
+  },
+  {
+    "id": "mini-cheesecake",
+    "title": "Mini Cheesecake de Frutas Vermelhas",
+    "description": "Porções individuais com calda caseira de frutas vermelhas e base amanteigada.",
+    "price": 12,
+    "image": "https://images.unsplash.com/photo-1549608276-5786777e6585?auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Mini cheesecakes com frutas vermelhas",
+    "tags": ["cheesecakes", "presentes"],
+    "url": "https://www.instagram.com/p/CP000006/"
   }
 ]
