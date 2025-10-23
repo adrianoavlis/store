@@ -1,21 +1,24 @@
 {
-  "title": "Valeria Store",
-  "subtitle": "Moda praia autoral e acessórios exclusivos",
-  "logo": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=facearea&w=160&h=160&q=80",
-  "logoAlt": "Marca Valeria Store",
-  "social": [
-    { "label": "WhatsApp", "url": "https://wa.me/5500000000000" },
-    { "label": "Instagram", "url": "https://instagram.com/valeria.store" },
-    { "label": "Catálogo", "url": "https://linktr.ee/valeriastore" }
-  ],
+  "brandName": "Store Valeria Doces",
+  "tagline": "Doces artesanais, bolos decorados e encomendas cheias de afeto.",
+  "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=facearea&w=160&h=160&q=80",
+  "logoAlt": "Cupcake decorado representando a marca Valeria Doces",
+  "instagramProfile": "valeriadoces20",
+  "instagramLabel": "Instagram",
+  "whatsappNumber": "+55 21 99999-9999",
+  "whatsappLabel": "Pedir no WhatsApp",
+  "whatsappTemplate": "Olá, tenho interesse no produto {{title}} (link: {{url}}). Poderia informar preço e disponibilidade?",
+  "cardsPerRowMobile": 1,
+  "cardsPerRowTablet": 2,
+  "cardsPerRowDesktop": 3,
   "highlight": {
-    "eyebrow": "Coleção em Destaque",
-    "title": "Verão Atlântico 2024",
-    "description": "Tecidos leves, cores vibrantes e modelagens pensadas para acompanhar você da praia ao sunset.",
-    "ctaLabel": "Falar no WhatsApp",
-    "ctaUrl": "https://wa.me/5500000000000?text=Quero%20a%20cole%C3%A7%C3%A3o%20Ver%C3%A3o%20Atl%C3%A2ntico",
-    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=960&q=80",
-    "imageAlt": "Modelo com saída de praia colorida"
+    "eyebrow": "Semana da Vitrine",
+    "title": "Doces artesanais para celebrar cada momento",
+    "description": "Selecionamos receitas especiais com ingredientes frescos e apresentação impecável para encantar em festas, eventos e presentes afetivos.",
+    "ctaLabel": "Falar com a Valeria",
+    "ctaUrl": "https://wa.me/5521999999999?text=Quero%20encomendar%20doces%20personalizados",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=960&q=80",
+    "imageAlt": "Mesa com doces artesanais coloridos"
   },
-  "footer": "© 2024 Valeria Store. Todos os direitos reservados."
+  "footer": "© 2024 Valeria Doces. Produzido com carinho na zona oeste do Rio de Janeiro."
 }
