@@ -1,0 +1,9 @@
+services:
+  sqlserver:
+    image: 'mcr.microsoft.com/mssql/server:latest'
+    environment:
+      - 'ACCEPT_EULA=yes'
+      - 'MSSQL_PID=sa'
+      - 'MSSQL_SA_PASSWORD=admin123'
+    ports:
+      - '1433'
