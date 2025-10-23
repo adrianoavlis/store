@@ -1,0 +1,21 @@
+{
+  "title": "Valeria Store",
+  "subtitle": "Moda praia autoral e acessórios exclusivos",
+  "logo": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=facearea&w=160&h=160&q=80",
+  "logoAlt": "Marca Valeria Store",
+  "social": [
+    { "label": "WhatsApp", "url": "https://wa.me/5500000000000" },
+    { "label": "Instagram", "url": "https://instagram.com/valeria.store" },
+    { "label": "Catálogo", "url": "https://linktr.ee/valeriastore" }
+  ],
+  "highlight": {
+    "eyebrow": "Coleção em Destaque",
+    "title": "Verão Atlântico 2024",
+    "description": "Tecidos leves, cores vibrantes e modelagens pensadas para acompanhar você da praia ao sunset.",
+    "ctaLabel": "Falar no WhatsApp",
+    "ctaUrl": "https://wa.me/5500000000000?text=Quero%20a%20cole%C3%A7%C3%A3o%20Ver%C3%A3o%20Atl%C3%A2ntico",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=960&q=80",
+    "imageAlt": "Modelo com saída de praia colorida"
+  },
+  "footer": "© 2024 Valeria Store. Todos os direitos reservados."
+}
